@@ -53,3 +53,7 @@ npm run preview to test the production build locally.
 Dependencies are clearly separated from devDependencies to keep the production bundle minimal and performance-focused.
 
 This project serves as a robust template for developers looking to create high-performance web apps with modern tooling and best practices. It’s ideal for both beginners and professionals who want a clean starting point for React-based applications, especially those that benefit from real-time features.
+
+output-
+
+![Image](https://github.com/user-attachments/assets/06a42ba9-6f1d-45b6-a770-1e9588e41a28)
